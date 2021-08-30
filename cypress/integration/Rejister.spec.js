@@ -134,7 +134,7 @@ describe('Register an User',() =>{
 
             cy.get('#password').type('12345678');
 
-            cy.get('#password_confirmation').type('12344440');
+            cy.get('#password_confirmation').type('12344400');
 
             cy.contains('button', 'Register').click();
 
