@@ -68,7 +68,7 @@ describe('Register an User',() =>{
 
             //cy.get('#name').type('kamran');
 
-            cy.get('#email').type('muhammadkamran2431@gmail.com');
+            cy.get('#email').type('muhammadkamran2430@gmail.com');
 
             cy.get('#password').type('12345');
 
