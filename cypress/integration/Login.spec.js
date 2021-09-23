@@ -28,7 +28,6 @@ describe('Login Page',()=>{
 
                 cy.contains('Dashboard');
 
-
             });
         });
 
